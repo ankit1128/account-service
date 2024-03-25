@@ -4,7 +4,7 @@ package com.advantage.accountrest.AccountserviceClient;
 import javax.xml.bind.annotation.*;
 
 
-/**
+/***
  * <p>Java class for anonymous complex type.
  * 
  * <p>The following schema fragment specifies the expected content contained within this class.
